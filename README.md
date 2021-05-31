@@ -1,0 +1,2 @@
+# javaFindSiblings
+Two non-negative integers are called Siblings if they can be obtained by each other by rearranging the digits of their decimal representations. Write the function: public static String solution(String input) throws NumberFormatException { return null; } that, given any String input, returns all the distinct Siblings that can be formed by the positive integers that can be found on it in descending order.
